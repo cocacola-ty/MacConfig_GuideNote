@@ -1,4 +1,4 @@
-# Mac
+# 打造一个高效Mac
 
 ## VIM的配置和使用
 
@@ -46,11 +46,11 @@
 
 * 常用shell命令
 
-## Mac使用
+## Mac常用技巧
 
- * 缓存清理
+ * [缓存清理](/frequently_used_skill/缓存清理.md)
 
- * 在Finder中快速显示隐藏文件
+ * [在Finder中快速显示隐藏文件](/frequently_used_skill/frequently-used.md?id=finder中快速显示隐藏文件)
 
  * Mac中使用sqlite数据库
 
