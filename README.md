@@ -44,6 +44,8 @@
 
 ### 命令行使用
 
+* [iterm2快捷键](/command_line_tool/iterm2_keymap.md)
+
 * 常用shell命令
 
 ## Mac常用技巧
@@ -72,10 +74,16 @@
 
  * ShadowSocket 翻墙
 
- * Typora markdown编辑器。展示效果很好。
+ * Typora markdown编辑器。展示效果很好。 https://www.typora.io/
 
  * Visual Studio Code 编辑器
 
  * PostMan 接口测试工具
 
  * Charles 抓包工具
+
+ * `homebrew` Mac下的包管理工具
+
+    homebrew安装的软件在`/usr/local/bin`目录下
+
+    系统自带的软件在`/usr/bin`目录下
