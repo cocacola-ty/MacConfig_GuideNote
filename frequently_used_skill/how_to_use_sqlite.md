@@ -31,7 +31,7 @@ sqlite aa.db
 
 ```
 pragma table_info(tablename)
-``
+```
 
 默认值为当前日期
 
