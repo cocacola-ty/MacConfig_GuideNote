@@ -27,8 +27,15 @@ sqlite aa.db
 .mode column
 ```
 
+查看表结构
+
+```
+pragma table_info(tablename)
+``
+
 默认值为当前日期
 
 ```
 create table test_table (a integer , b date default (date(‘now’)));
 ```
+

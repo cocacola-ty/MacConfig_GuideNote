@@ -60,6 +60,12 @@
 
  * 解锁钥匙串的命令
 
+ ## 常用工具的配置
+
+* XCode
+
+* Visual Studio Code
+
 ## 常用软件
 
  * IINA 开源视频播放器
