@@ -54,7 +54,7 @@
 
  * [在Finder中快速显示隐藏文件](/frequently_used_skill/frequently-used.md?id=finder中快速显示隐藏文件)
 
- * Mac中使用sqlite数据库
+ * [Mac中使用sqlite数据库](/frequently_used_skill/how_to_use_sqlite.md)
 
  * 查看钥匙串中导入的证书
 
