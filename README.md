@@ -50,6 +50,8 @@
 
 * 常用shell命令
 
+* [du-查看硬盘使用命令](/command_line_tool/diskusage_command.md)
+
 ## Mac常用技巧
 
  * [缓存清理](/frequently_used_skill/缓存清理.md)
