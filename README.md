@@ -30,7 +30,7 @@
 
 ## 命令行的配置和使用
 
-* [配置指导](/command_line_tool/command_line_tool_guide.md)
+* [配置指南](/command_line_tool/command_line_tool_guide.md)
 
 ### 命令行配置
 
@@ -50,7 +50,7 @@
 
 * 常用shell命令
 
-* [du-查看硬盘使用命令](/command_line_tool/diskusage_command.md)
+    * [du-查看硬盘使用命令](/command_line_tool/diskusage_command.md)
 
 ## Mac常用技巧
 
