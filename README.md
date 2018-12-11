@@ -30,6 +30,8 @@
 
 ## 命令行的配置和使用
 
+* [配置指导](/command_line_tool/command_line_tool_guide.md)
+
 ### 命令行配置
 
 * `.zshrc`文件语法
