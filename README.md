@@ -101,3 +101,9 @@
     homebrew安装的软件在`/usr/local/bin`目录下
 
     系统自带的软件在`/usr/bin`目录下
+
+* docsify 文档工具
+
+    docsify 需要通过npm来安装，npm是nodejs的包管理工具。安装nodejs就会将npm也同时安装
+
+    nodejs的安装直接在官网下载安装即可
