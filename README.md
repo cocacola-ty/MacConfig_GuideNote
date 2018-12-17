@@ -2,6 +2,8 @@
 
 ## VIM的配置和使用
 
+[我的当前配置](/vi_editor/my_configration.md)
+
 ### VIM的配置
 
 * vim主题配置和下载
