@@ -33,8 +33,17 @@ filetype plugin indent on
 
 ## 快捷键配置
 
-```
-```
+* F5键编译运行Python代码
+
+    ```
+    map <F5> :call ComplileRun()<CR>
+    func! CompileRun()
+        exec "w"
+        if &filetype == 'python'
+            exec "!time python3 %"
+        endif
+    endfunc
+    ```
 
 ## 基础配置项
 

@@ -12,7 +12,11 @@
 
 * vimscript语法，自定义vimrc
 
+    http://www.treelib.com/book-detail-id-47-aid-2899.html
+
     * 如何自定义快捷键
+
+    * 如何定义函数
 
     * leader键的使用
 
