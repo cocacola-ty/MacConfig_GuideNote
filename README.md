@@ -12,7 +12,7 @@
 
 * vimscript语法，自定义vimrc
 
-    * 自定义快捷键
+    * 如何自定义快捷键
 
     * leader键的使用
 
