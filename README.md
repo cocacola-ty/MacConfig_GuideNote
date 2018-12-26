@@ -34,6 +34,8 @@
 
 * 列操作
 
+* [文本替换操作](/vi_editor/vim_replace.md)
+
 ## 命令行的配置和使用
 
 * [配置指南](/command_line_tool/command_line_tool_guide.md)
@@ -113,3 +115,17 @@
     docsify 需要通过npm来安装，npm是nodejs的包管理工具。安装nodejs就会将npm也同时安装
 
     nodejs的安装直接在官网下载安装即可
+
+* sublime text 
+
+    color theme : material theme. https://packagecontrol.io/packages/Material%20Theme
+
+    `font_face` : `Monaco`
+
+    `font_size` : 12
+
+## 偏好设置
+
+* 字体：`Monaco`、`Menlo`、`Apple Bra`
+
+* 字号：12
