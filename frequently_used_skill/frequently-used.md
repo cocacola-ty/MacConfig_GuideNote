@@ -10,3 +10,11 @@ command + shift + .
 ```
 security find-identity -p codesigning login.keychain-db
 ```
+
+### 更改应用的icon
+
+1. 下载icon 。`.icns`格式的图片
+
+2. 在应用程序右键，显示简介。
+
+3. 将新的icon拖到简介中的icon位置。
