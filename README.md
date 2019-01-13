@@ -120,12 +120,6 @@
 
     [sublime text 3 的配置](daily_tool_config/sublime_text_config.md)
 
-    color theme : material theme. https://packagecontrol.io/packages/Material%20Theme
-
-    `font_face` : `Monaco`
-
-    `font_size` : 12
-
 ## 偏好设置
 
 * 字体：`Monaco`、`Menlo`、`Apple Bra`

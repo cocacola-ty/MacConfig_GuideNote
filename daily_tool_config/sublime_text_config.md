@@ -58,7 +58,7 @@ color theme : material theme. https://packagecontrol.io/packages/Material%20Them
 
 3. 安装完成后打开插件配置。`Preference` - `Package Settings` - `SublimeCodeIntel` - `Setting - User`。如图所示位置
 
-![https://github.com/cocacola-ty/Images/blob/master/sublime_codeintel_config.png?raw=true]
+![subliem plugin config](https://github.com/cocacola-ty/Images/blob/master/sublime_codeintel_config.png?raw=true)
 
 添加如下内容
 
