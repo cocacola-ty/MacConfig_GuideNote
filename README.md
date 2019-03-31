@@ -46,15 +46,15 @@
 
 * `zsh`自定义配置
 
-* `zsh`常用插件
+* `zsh`常用插件的安装
 
-    * `zsh-autosuggestions` 命令自动提示补全
+    * `zsh-autosuggestions` [命令自动提示补全插件的安装和使用](/command_line_tool/autosuggestion_plugin.md)
 
 * `zsh`的主题配置和下载
 
 ### 命令行使用
 
-* [iterm2快捷键](/command_line_tool/iterm2_keymap.md)
+* [iterm2快捷键的配置](/command_line_tool/iterm2_keymap.md)
 
 * 常用shell命令
 
@@ -76,7 +76,13 @@
 
 * XCode
 
-* Visual Studio Code
+    * XCode的常用快捷键
+
+    * 常用代码片段
+
+* sublime text 
+
+    [sublime text 3 的配置](daily_tool_config/sublime_text_config.md)
 
 ## 常用软件
 
@@ -115,10 +121,6 @@
     docsify 需要通过npm来安装，npm是nodejs的包管理工具。安装nodejs就会将npm也同时安装
 
     nodejs的安装直接在官网下载安装即可
-
-* sublime text 
-
-    [sublime text 3 的配置](daily_tool_config/sublime_text_config.md)
 
 ## 偏好设置
 
