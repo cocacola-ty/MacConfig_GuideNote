@@ -34,3 +34,4 @@
     `source ~/.oh-my-zsh/plugins/incr/incr*.zsh`
 
 4. 重启命令行
+  

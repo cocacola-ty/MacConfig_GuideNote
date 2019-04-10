@@ -56,15 +56,21 @@
 
 * [iterm2快捷键的配置](/command_line_tool/iterm2_keymap.md)
 
+* 常用的命令别名
+
 * 常用shell命令
 
     * [du-查看硬盘使用命令](/command_line_tool/diskusage_command.md)
+
+***
 
 ## Mac常用技巧
 
  * [缓存清理](/frequently_used_skill/缓存清理.md)
 
  * [在Finder中快速显示隐藏文件](/frequently_used_skill/frequently-used.md?id=finder中快速显示隐藏文件)
+
+ * [Mac 应用图片更改](/frequently_used_skill/frequently-used.md)
 
  * [Mac中使用sqlite数据库](/frequently_used_skill/how_to_use_sqlite.md)
 
