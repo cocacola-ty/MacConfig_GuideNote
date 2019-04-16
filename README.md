@@ -62,6 +62,14 @@
 
     * [du-查看硬盘使用命令](/command_line_tool/diskusage_command.md)
 
+## Git 
+
+### Git常用命令备忘
+
+* [Merge Request 的回滚](/git/git_faq.md)
+
+* 删除远端的tag
+
 ***
 
 ## Mac常用技巧

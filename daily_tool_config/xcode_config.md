@@ -11,13 +11,17 @@ civic主题
 
 * `command + option + j` 
 
-	跳转到文件搜索位置，如图所示位置
+	光标跳转到文件搜索位置，如图所示位置
 
 	![](https://github.com/cocacola-ty/Images/blob/master/xcode_file_filter.png?raw=true)
 
 * `command + l` 
 
 	跳转到指定行
+
+* `command + shift + c` 
+
+	将光标移动到日志控制台输出区域
 
 * `command + shift + o` 
 
