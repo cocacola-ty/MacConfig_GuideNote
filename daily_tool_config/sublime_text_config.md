@@ -50,6 +50,10 @@ color theme : material theme. https://packagecontrol.io/packages/Material%20Them
 }
 ```
 
+### 更改主题
+
+在`Preference - Theme` 可以选择已安装的主题
+
 ## 代码补全支持
 
 1. `cmd + p` 输入 `Install Package`
