@@ -94,5 +94,20 @@ color theme : material theme. https://packagecontrol.io/packages/Material%20Them
 2. import sys
 3. print(sys.path)
 
+## 使用VIM输入模式
 
+在用户偏好设置`Preferences-sublime-settings -- User`中添加
 
+```
+	[
+		"Vintage"
+	],
+```
+
+## 简单配置项的添加
+
+* 高亮光标所在行
+
+	```
+		"highlight_line": true
+	```
