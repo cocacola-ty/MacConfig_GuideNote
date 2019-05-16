@@ -64,11 +64,13 @@
 
 ## Git 
 
-### Git常用命令备忘
+### [Git常用命令备忘](/git/git_faq.md)
 
-* [Merge Request 的回滚](/git/git_faq.md)
+* Merge Request 的回滚
 
 * 删除远端的tag
+
+* 如何清理git分支
 
 ***
 
