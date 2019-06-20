@@ -52,9 +52,11 @@
 
 * `zsh`的主题配置和下载
 
-### 命令行使用
+* [配置iTerm2光标以单词来前后移动](/command_line_tool/iterm2_cursor_config.md)
 
 * [iterm2快捷键的配置](/command_line_tool/iterm2_keymap.md)
+
+### 命令行使用
 
 * 常用的命令别名
 
