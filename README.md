@@ -64,6 +64,10 @@
 
 ## Git 
 
+### 【git rebase】
+
+* [多个commit合并成一个commit](/git/git_rebase.md)
+
 ### [Git常用命令备忘](/git/git_faq.md)
 
 * Merge Request 的回滚
@@ -83,6 +87,8 @@
  * [Mac 应用图片更改](/frequently_used_skill/frequently-used.md)
 
  * [Mac中使用sqlite数据库](/frequently_used_skill/how_to_use_sqlite.md)
+
+ * [Mac通过命令进行图片处理](/frequently_used_skill/precess_image_sips.md)
 
  * 查看钥匙串中导入的证书
 
