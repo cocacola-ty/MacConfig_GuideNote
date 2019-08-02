@@ -32,7 +32,13 @@
 
 ### VIM的使用
 
-* 列操作
+* 宏的使用
+
+* 文本对象选择的使用。a和i的使用
+
+* 多窗口与多标签的使用
+
+* 可视化模式的相关操作
 
 * [文本替换操作](/vi_editor/vim_replace.md)
 
@@ -56,6 +62,10 @@
 
 * [iterm2快捷键的配置](/command_line_tool/iterm2_keymap.md)
 
+* 终端翻墙配置
+
+* [终端环境变量配置](/command_line_tool/env_path.md)
+
 ### 命令行使用
 
 * 常用的命令别名
@@ -63,6 +73,12 @@
 * 常用shell命令
 
     * [du-查看硬盘使用命令](/command_line_tool/diskusage_command.md)
+
+* [正则表达式的使用学习](/command_line_tool/reg.md)
+
+    * 正则表达式的基本字符
+
+    * 正则表达式的符号
 
 ## Git 
 
