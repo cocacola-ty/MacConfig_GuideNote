@@ -42,11 +42,11 @@
 
 * [文本替换操作](/vi_editor/vim_replace.md)
 
-## 命令行的配置和使用
+## 终端的配置和使用
 
 * [配置指南](/command_line_tool/command_line_tool_guide.md)
 
-### 命令行配置
+### 终端详细配置
 
 * `.zshrc`文件语法
 
@@ -64,9 +64,9 @@
 
 * 终端翻墙配置
 
-* [终端环境变量配置](/command_line_tool/env_path.md)
+* [终端环境变量的作用和配置](/command_line_tool/env_path.md)
 
-### 命令行使用
+### 终端使用
 
 * 常用的命令别名
 
@@ -112,13 +112,11 @@
 
  * 解锁钥匙串的命令
 
- ## 常用工具的配置
+## 常用工具的配置
 
-* XCode
+* [XCode](/daily_tool_config/xcode_config.md)
 
-    * XCode的常用快捷键
-
-    * 常用代码片段
+    * 主题、字体、字号等偏好设置
 
 * sublime text 
 
@@ -139,8 +137,6 @@
  * ShadowSocket 翻墙
 
  * Typora markdown编辑器。展示效果很好。 https://www.typora.io/
-
- * Visual Studio Code 编辑器
 
  * PostMan 接口测试工具
 
@@ -164,6 +160,6 @@
 
 ## 偏好设置
 
-* 字体：`Monaco`、`Menlo`、`Apple Bra`
+* 字体：`Monaco`、`Menlo`、`Apple Braille`
 
 * 字号：12
