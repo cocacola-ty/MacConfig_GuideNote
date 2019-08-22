@@ -42,7 +42,7 @@
 
 * [文本替换操作](/vi_editor/vim_replace.md)
 
-## 终端的配置和使用
+## 终端工具的配置和使用
 
 * [配置指南](/command_line_tool/command_line_tool_guide.md)
 
@@ -57,6 +57,8 @@
     * `zsh-autosuggestions` [命令自动提示补全插件的安装和使用](/command_line_tool/autosuggestion_plugin.md)
 
 * `zsh`的主题配置和下载
+
+* iTerm2更改主题配色
 
 * [配置iTerm2光标以单词来前后移动](/command_line_tool/iterm2_cursor_config.md)
 
