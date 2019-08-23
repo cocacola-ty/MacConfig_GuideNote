@@ -52,11 +52,11 @@
 
 * `zsh`自定义配置
 
-* `zsh`常用插件的安装
+* [`zsh`插件的安装和使用](/command_line_tool/zsh_plugins.md)
 
     * `zsh-autosuggestions` [命令自动提示补全插件的安装和使用](/command_line_tool/autosuggestion_plugin.md)
 
-* `zsh`的主题配置和下载
+* [`zsh`的主题配置和下载](/command_line_tool/zsh_theme.md)
 
 * iTerm2更改主题配色
 
