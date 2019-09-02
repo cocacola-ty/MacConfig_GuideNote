@@ -44,7 +44,7 @@
 
 ## 终端工具的配置和使用
 
-* [配置指南](/command_line_tool/command_line_tool_guide.md)
+* [配置指南](/terminal_usage/terminal_configration_guide.md)
 
 ### 终端详细配置
 
@@ -52,21 +52,21 @@
 
 * `zsh`自定义配置
 
-* [`zsh`插件的安装和使用](/command_line_tool/zsh_plugins.md)
+* [`zsh`插件的安装和使用](/terminal_usage/zsh_plugins.md)
 
-    * `zsh-autosuggestions` [命令自动提示补全插件的安装和使用](/command_line_tool/autosuggestion_plugin.md)
+    * `zsh-autosuggestions` [命令自动提示补全插件的安装和使用](/terminal_usage/autosuggestion_plugin.md)
 
-* [`zsh`的主题配置和下载](/command_line_tool/zsh_theme.md)
+* [`zsh`的主题配置和下载](/terminal_usage/zsh_theme.md)
 
 * iTerm2更改主题配色
 
-* [配置iTerm2光标以单词来前后移动](/command_line_tool/iterm2_cursor_config.md)
+* [配置iTerm2光标以单词来前后移动](/terminal_usage/iterm2_cursor_config.md)
 
-* [iterm2快捷键的配置](/command_line_tool/iterm2_keymap.md)
+* [iterm2快捷键的配置](/terminal_usage/iterm2_keymap.md)
 
 * 终端翻墙配置
 
-* [终端环境变量的作用和配置](/command_line_tool/env_path.md)
+* [终端环境变量的作用和配置](/terminal_usage/env_path.md)
 
 ### 终端使用
 
@@ -74,13 +74,15 @@
 
 * 常用shell命令
 
-    * [du-查看硬盘使用命令](/command_line_tool/diskusage_command.md)
+    * [du-查看硬盘使用命令](/terminal_usage/diskusage_command.md)
 
-* [正则表达式的使用学习](/command_line_tool/reg.md)
+* [正则表达式的使用学习](/terminal_usage/reg.md)
 
     * 正则表达式的基本字符
 
     * 正则表达式的符号
+
+* [sed命令使用](/terminal_usage/sed_usage.md)
 
 ## Git 
 
