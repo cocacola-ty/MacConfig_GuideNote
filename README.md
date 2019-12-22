@@ -156,6 +156,8 @@
 
     系统自带的软件在`/usr/bin`目录下
 
+* draw.io 画图工具
+
 * docsify 文档工具
 
     docsify 需要通过npm来安装，npm是nodejs的包管理工具。安装nodejs就会将npm也同时安装
